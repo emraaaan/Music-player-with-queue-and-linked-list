@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1717234463 source:c:\users\lenovo\documents\codeblocks\test project\music_player\linkedlist.cpp
+	"LinkedList.h"
+
+1717234463 c:\users\lenovo\documents\codeblocks\test project\music_player\linkedlist.h
+	"Song.h"
+
+1717234463 c:\users\lenovo\documents\codeblocks\test project\music_player\song.h
+	<string>
+
+1717309859 source:c:\users\lenovo\documents\codeblocks\test project\music_player\main.cpp
+	"MusicPlayer.h"
+	<iostream>
+
+1717309789 c:\users\lenovo\documents\codeblocks\test project\music_player\musicplayer.h
+	"Queue.h"
+	<stack>
+
+1716217224 c:\users\lenovo\documents\codeblocks\test project\music_player\queue.h
+	"LinkedList.h"
+
+1717309787 source:c:\users\lenovo\documents\codeblocks\test project\music_player\musicplayer.cpp
+	"MusicPlayer.h"
+	<iostream>
+
+1716217242 source:c:\users\lenovo\documents\codeblocks\test project\music_player\queue.cpp
+	"Queue.h"
+
+1717234249 source:c:\users\lenovo\documents\codeblocks\test project\music_player\song.cpp
+	"Song.h"
+
